@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1622301370 source:c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\projetop1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"ordenacao.h"
+	"menu.h"
+
+1622244498 c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\projetop1\ordenacao.h
+
+1622244490 source:c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\projetop1\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ordenacao.h"
+
+1622141296 c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\projetop1\menu.h
+
+1622244478 source:c:\users\ciroe\desktop\ads\2\estrutura de dados 1\lista_2\projetop1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"menu.h"
+	"ordenacao.h"
+
